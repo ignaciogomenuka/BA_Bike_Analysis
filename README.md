@@ -1,5 +1,7 @@
 # 🚲 Buenos Aires Public Bike System Analysis
 
+📄 [View the Full Presentation](https://github.com/ignaciogomenuka/BA_Bike_Analysis/blob/master/BA_Bike_Analysis.pdf)
+
 ## 📂 Data Sources
 
 The datasets available for analysis:
