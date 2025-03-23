@@ -14,52 +14,11 @@ The datasets available for analysis:
 
 ---
 
-## 🎯 Business Goal
+🚴‍♂️ Buenos Aires Bike Adoption Analysis
+This project focuses on supporting the goal of increasing the bike ride adoption rate for the Buenos Aires bicycle-sharing system. Using real-world ride and station data, the analysis uncovers key insights to improve the availability and efficiency of bike stations across the city.
 
-The Buenos Aires bicycle company aims to increase the **bike ride adoption rate by 18%** this year. Consequently, the availability of bike stations with bicycles should improve. Your task is to analyze the provided data and generate insights to support this goal.
+Through exploratory data analysis, the project identifies usage patterns, such as the most popular stations, peak times during the week, and average ride durations. Additionally, it highlights any imbalances in bike distribution, offering recommendations for optimizing bike allocation and enhancing user experience.
 
----
+Further, the project suggests data model improvements to better track user behavior and retention, providing actionable KPIs to monitor progress toward the adoption target. Finally, based on the findings, it proposes new app features and data collection strategies to drive engagement and system efficiency.
 
-## ❓ Questions to Answer
-
-### 🚏 1. **Trending Stations** 
-- Define and identify the most frequently used stations.
-
-### 🔁 2. **Start vs. Finish Trends** 
-- Do the most used stations differ between ride start and end locations?
-
-### ⏳ 3. **Popular Timeframes**
-- Most common **day of the week** for rides.
-- Most common **hours** for rides.
-
-### 📈 4. **Average Weekly Rides**
-- Calculate the average number of rides per week.
-
-### 🔄 5. **Bike Redistribution**
-- Are there enough bikes at all stations?
-- Should the government redistribute bikes?
-- Justify any proposed redistribution.
-
-### ⏱ 6. **Ride Duration**
-- Calculate the average ride duration.
-
-### 🛠 7. **Mechanical Service Investment**
-- Where should the government place mechanical bike services?
-- Justify the location choice with data.
-
-### 💡 8. **Additional Analysis**
-- Any extra insights that could improve the system.
-
-### 📊 9. **Data Model Improvement**
-- Current datasets do not allow user retention tracking (no `user_id` field).
-- What changes would you recommend for better retention analysis?
-- Suggest KPIs to help achieve the **18% increase goal**.
-
-### 📱 10. **Feature Suggestion**
-- The app currently shows available bikes at stations.
-- What feature would improve the **user experience**?
-- What additional data should be tracked and why?
----
-
-## ⭐ Bonus (Optional)
-- Train and Subway Stations where added to understand the ride flow across the city.
+Bonus analyses are included, incorporating train and subway station data to understand multi-modal transit patterns and how they relate to bike usage in the city.
