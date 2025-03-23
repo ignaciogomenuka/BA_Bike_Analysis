@@ -14,7 +14,7 @@ The datasets available for analysis:
 
 ---
 
-🚴‍♂️ Buenos Aires Bike Adoption Analysis
+## 🚴‍♂️ Buenos Aires Bike Adoption Analysis
 This project focuses on supporting the goal of increasing the bike ride adoption rate for the Buenos Aires bicycle-sharing system. Using real-world ride and station data, the analysis uncovers key insights to improve the availability and efficiency of bike stations across the city.
 
 Through exploratory data analysis, the project identifies usage patterns, such as the most popular stations, peak times during the week, and average ride durations. Additionally, it highlights any imbalances in bike distribution, offering recommendations for optimizing bike allocation and enhancing user experience.
